@@ -1,0 +1,20 @@
+:root {
+    --notun-rong: slateblue;
+}
+
+
+
+p {
+    color: var(--notun-rong);
+    border: 5px solid slateblue;
+
+}
+
+h1 {
+    color: slateblue;
+    border: 2px dashed slateblue;
+}
+
+h3 {
+    color: slateblue;
+}
